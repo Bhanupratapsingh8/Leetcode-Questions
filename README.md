@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
@@ -39,9 +40,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
