@@ -42,9 +42,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
