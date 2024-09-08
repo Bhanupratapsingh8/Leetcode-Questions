@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 ## String
