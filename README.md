@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
