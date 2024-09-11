@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
@@ -78,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
