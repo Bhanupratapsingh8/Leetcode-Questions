@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 ## Hash Table
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
 |  |
@@ -101,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
