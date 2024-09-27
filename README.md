@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +126,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
