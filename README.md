@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
