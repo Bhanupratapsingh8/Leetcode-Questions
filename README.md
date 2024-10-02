@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
@@ -150,4 +155,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
