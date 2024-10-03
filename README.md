@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0507-perfect-number) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
