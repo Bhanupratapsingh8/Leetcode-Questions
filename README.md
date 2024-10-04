@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 ## String
 |  |
