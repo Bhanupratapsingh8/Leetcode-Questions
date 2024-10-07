@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0223-rectangle-area) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 ## Design
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Number Theory
