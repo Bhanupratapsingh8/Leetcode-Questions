@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
+| [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
+| [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 ## Trie
 |  |
 | ------- |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
