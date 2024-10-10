@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
