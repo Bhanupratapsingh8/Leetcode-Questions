@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -190,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
