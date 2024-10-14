@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -197,4 +199,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
