@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0389-find-the-difference) |
