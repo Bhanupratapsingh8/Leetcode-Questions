@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0228-summary-ranges) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -227,4 +229,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
