@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -258,4 +260,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
