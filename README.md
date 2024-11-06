@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0228-summary-ranges) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -150,12 +152,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -268,5 +272,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
