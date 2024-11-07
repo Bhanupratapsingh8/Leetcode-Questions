@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
+| [0944-smallest-range-i](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0944-smallest-range-i) |
 | [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0909-stone-game) |
+| [0944-smallest-range-i](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
