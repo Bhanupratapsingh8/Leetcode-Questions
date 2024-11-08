@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0953-reverse-only-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
