@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0944-smallest-range-i) |
 | [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [3321-type-of-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [3321-type-of-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [3321-type-of-triangle](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/3321-type-of-triangle) |
 ## Merge Sort
 |  |
 | ------- |
