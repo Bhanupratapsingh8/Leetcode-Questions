@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0731-my-calendar-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0682-baseball-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 ## Trie
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Bhanupratapsingh8/Leetcode-Questions/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
